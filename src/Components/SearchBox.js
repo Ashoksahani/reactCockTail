@@ -24,7 +24,7 @@ const SearchBox = () => {
               ref={searchTerm}
               onChange={handleChange}
               className="form-control"
-              placeholder="Serach Here"
+              placeholder="Search Here"
               style={{ width: "350px" }}
             />
           </div>
